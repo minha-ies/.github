@@ -12,8 +12,9 @@ A aquisição do SIGAA (Sistema Integrado de Gestão de Atividades Acadêmicas) 
 
 O Projeto Minha IES possui vários repositórios, os mais importantantes são:
 
-- [backend](): Backend as a Service (BaaS) baseado em Parse Server e Javascript
-- [frontend](): Aplicações web e mobile desenvolvidas em Flutter
-- [docs-config](): Documentação para configuração dos ambientes de desenvolvimento
-- [docs-dev](): Documentação de treinamento para membros da equipe de desenvolvimento
-- [docs-user](): Documentação de treinamento para usuários das aplicações web e mobile
+* [backend](https://github.com/minha-ies/backend): Backend as a Service (BaaS) baseado em Parse Server e Javascript
+* [frontend](https://github.com/minha-ies/frontend): Aplicações web e mobile desenvolvidas em Flutter
+* [docs-config](https://github.com/minha-ies/docs-config): Documentação para configuração dos ambientes de desenvolvimento
+* [docs-dev](https://github.com/minha-ies/docs-dev): Documentação de treinamento para membros da equipe de desenvolvimento
+* [docs-user](https://github.com/minha-ies/docs-user): Documentação de treinamento para usuários das aplicações web e mobile
+
